@@ -29,6 +29,7 @@ body
     text-align: center;
     overflow: hidden; /*BARRA DE SCROLL DOWN, HIDDEN ESCONDIDA*/
     margin: 0;
+    font-weight: 700;
     /*overflow-x: hidden; /*REMOVER BARRA DE SCROLL HORIZONTAL*/
 }
 
@@ -121,6 +122,7 @@ footer:hover{
     font-weight: 900;
     background-color: var(--green-cor);
     color: #412234;
+    border-radius: 20px;
 }
 footer:hover a{
     font-weight: 900;
